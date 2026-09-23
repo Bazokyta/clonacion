@@ -128,25 +128,29 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 ## Parte 6: Preguntas de reflexión
 
 1. ¿Qué hace `console.log`?
-    - asdsdsad
+    - Muestra el mensaje que nosotros le indiquemos por consola.
 2. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
-
+    - La variable pasa a ser la nueva que nosotros le declaremos, siempre y cuando esta sea global.
 3. ¿Para qué sirve la consola del navegador en este contexto?
-
+    - O bien para ver como son las paginas por detrás o para ver si hay errores al ejecutar nuestro programa que no se muestren visualmente.
 4. ¿Para qué sirve el archivo HTML en este contexto?
-
+    - Para darle forma a nuestro programa,
 5. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
-
+    - Principalmente para que quede mas limpio y ordenado y no haya confusiones entre funciones u otra cosa.
 6. ¿Por qué se llama Vanilla JavaScript?
-
+    - Porque es como lo original sin extras, como pueden ser funciones.
 7. ¿Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
-
+    - El puro se usario para cosas mas pequeñas o menos complejas y el REACT cuando se va a hacer un proyecto de aplicaciones web mas grande y complejas.
 8. Cómo se define una función en JS
-
+    - function nombre(valores) {
+        función ;
+      }
 9. Sobre el código demuestra la diferencia entre let y const
-
+    - El let puede cambiar de valor aunque este asignado mientras que el const no puede cambiar de variable una vez asignado.
 10. Indica en el código:
-
-11. Si puede evitarse el uso de let. Qué hace
-
-12. Cuántos eventos hay en el código, cuáles son y para qué sirven
+  1.1 Si puede evitarse el uso de let. Qué hace
+    - Si se puede evitar, cambiando el let por const
+  1.2 Cuántos eventos hay en el código, cuáles son y para qué sirven
+    - Hay dos eventos.
+    - 'DOMContentLoaded' y el 'submit'.
+    - El 'DOMContentLoaded' hace que el html esté cagado antes de ejecutar el script y el 'summit' coge el nombre que hemos puesto para mostrarlo.
