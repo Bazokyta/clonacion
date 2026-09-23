@@ -129,7 +129,6 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 
 1. ¿Qué hace `console.log`?
    - Muestra por consola el mensaje que le hayamos asignado
-
 3. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
    - 
 
