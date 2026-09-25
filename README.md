@@ -154,3 +154,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
     - Hay dos eventos.
     - 'DOMContentLoaded' y el 'submit'.
     - El 'DOMContentLoaded' hace que el html esté cagado antes de ejecutar el script y el 'summit' coge el nombre que hemos puesto para mostrarlo.
+   
+    Enlace formulario: https://github.com/Bazokyta/clonacion/tree/main/formulario
+
+    Enlace hola: https://github.com/Bazokyta/clonacion/tree/main/hola
